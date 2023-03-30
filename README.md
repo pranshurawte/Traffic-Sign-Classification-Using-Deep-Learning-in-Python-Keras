@@ -10,3 +10,6 @@ The model architecture is a convolutional neural network (CNN) with several conv
 After training, the model achieves an accuracy of over 98% on the test set, demonstrating its effectiveness in classifying traffic signs. The model is also evaluated on a few real-world images to showcase its practicality.
 
 This project serves as a good starting point for anyone interested in traffic sign classification using deep learning techniques. The code is well-documented and organized, making it easy to understand and modify. Additionally, the trained model can be used in real-world applications such as self-driving cars or traffic sign recognition systems.
+
+
+To download the dataset, click [here]([https://your-file-hosting-service.com/your-download-link](https://drive.google.com/drive/folders/1bRUoBrs7tUxj4FzhUEyG678UnV2Mxdfb?usp=sharing)).
